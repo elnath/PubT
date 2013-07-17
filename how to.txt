@@ -1,0 +1,8 @@
+Android
+
+stiahnut http://developer.android.com/sdk/index.html a nainstalovat
+je tam aj eclipse
+
+stiahnut potrebny usb driver pre telefon
+(pre HTC staci htc sync mat nainstalovane)
+http://developer.android.com/tools/extras/oem-usb.html
